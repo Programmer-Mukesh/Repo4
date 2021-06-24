@@ -8,7 +8,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.top-layout{
+.topLayout{
     display: flex;
     justify-content: space-between;
 }
@@ -19,7 +19,7 @@
     height: 10px;
 }
 
-.upperright{
+.upperRight{
     margin: 1rem; 
     padding-right:7px ; 
     font-size: 14px; 
@@ -31,7 +31,7 @@
     font-weight: bold;  
 }
 
-.bluetext{
+.blueText{
     color: rgb(0, 174, 255);
     cursor: pointer;
     letter-spacing: -0.6px;
@@ -42,21 +42,21 @@
     font-weight: bold;
 }
 
-.upper-rightimages{
+.upperRightImages{
     text-align: end;
     margin-top: 5px;
 }
 
-.upper-rightimages:hover{
+.upperRightImages:hover{
     cursor: pointer;
 }
 
-.fblogo{
+.fbLogo{
     width: 81px;
     height: 20px;
 }
 
-.twitterlogo{
+.twitterLogo{
     width:61px;
     height:20px;
 }
@@ -67,35 +67,35 @@
     margin: 0.8rem 0.5rem 0.28rem 0.5rem;
 }
 
-.menuleft{
+.menuLeft{
     background-color:  rgb(26, 196, 248);
     color: white;
     text-decoration: none;
     padding: 5px 12px 4px 12px;
     margin: -1.3px;   
 }
-.menuleft:hover{
+.menuLeft:hover{
     background-color:  rgb(5, 180, 233);
     cursor: pointer;
 }
 
-.menuright{
+.menuRight{
     background-color:  rgb(94, 190, 56);
     color: white;
     text-decoration: none;
     padding: 5px 12px 4px 12px;
     margin: -1.3px;
 }
-.menuright:hover{
+.menuRight:hover{
     cursor: pointer;
     background-color: rgb(70, 177, 28);
 }
 
-.radiusleft{
+.radiusLeft{
     border-radius: 5px 0px 0px 0px;
 }
 
-.radiusright{
+.radiusRight{
     border-radius: 0px 5px 0px 0px;
 }
 
@@ -108,7 +108,7 @@
     max-height: 60px;
 }
 
-.adimg{
+.adImg{
     margin-left: 7.5rem;
     width: 730px;
     height: 58px;
@@ -129,18 +129,18 @@
     margin:0px 0px 0px 5px;
 }
 
-.middle-container{
+.middleContainer{
     display: grid;
     height: 380px;
     grid-template-columns: 23% 52% 25%;
  
 }
-.mid-leftsection{
+.midLeftSection{
     margin-left: 1.3rem;
     font-family:  Tahoma;
 }
 
-.mid-leftimg{
+.midLeftImg{
     margin: 0.3rem 0rem 1.5rem 0rem;
     height: 145px;
     width: 135px;
@@ -152,12 +152,12 @@
     margin-bottom: 7px;
     color: rgb(73, 72, 72);
 }
-.hr-dot{
+.hrDot{
     margin: 5px 27px 4px 0px;
     border: 0.1px dashed rgb(223, 223, 223);
 }
 
-.sidetiles{
+.sideTiles{
     font-weight: 400;
     font-size: 18px;
     letter-spacing: -0.6px;
@@ -165,18 +165,18 @@
     margin-bottom: 0.5rem; 
 }
 
-.middle-img{
+.middleImg{
     border:1.9px solid rgb(177, 177, 177);
     width: 658px;
     height: 220px;
 }
 
-.mid-lower-section{
+.midLowerSection{
     border:1.9px solid rgb(177, 177, 177);
     margin-bottom: 1rem;
 }
 
-.mid-text{
+.midText{
     padding: 1.4rem 1.8rem; 
 }
 
@@ -185,28 +185,28 @@
    font-size: 23px ;
 }
 
-.lighttext{
+.lightText{
     color:rgb(138, 133, 118);
     padding: 5px 0px;
     font-size: 16px ;
 }
 
-.midtext .paragraph{
+.midText .paragraph{
     letter-spacing: 0.2px;
 }
 
-.greytxt{
+.greyTxt{
     color: rgb(119, 119, 119);
     font-weight: 700;
     font-size: 16px ;
     padding-bottom: 5px;
 }
 
-.mid-right-item{
+.midRightItem{
     margin: 2px 18px;
 }
 
-.imagetext{
+.imageText{
     background: url(booking-seeker-mhp-bg.jpg);
     background-size: cover;
     padding: 1.6rem;
@@ -215,28 +215,28 @@
     text-align: center;  
 }
 
-.mid-right-text{
+.midRightText{
     background: none;
     color: white;
    
 }
-.imagetext h3{
+.imageText h3{
     padding: 20px 0px 2px 0px;
     font-weight:400;
     font-size: 29px;
     letter-spacing: -0.9px;
 }
-.imagesubtext {
+.imageSubText {
     font-size: 14px;
     padding-top: 5px;
     
 }
-.imagetext .para{
+.imageText .para{
     padding-top: 6px;
     font-size: 17px;  
 }
 
-.imagetext .btn{
+.imageText .btn{
     margin-top:3.2rem ;
     font-size: 16px;
     padding: 3px 10px 6px 10px;
@@ -246,22 +246,22 @@
     border-radius: 7px; 
 }
 
-.footer-container1{
+.footerContainer1{
     margin-top: 7rem;
     display: grid;
     height: 180px;
     grid-template-columns: 27% 27% 46%;  
 }
 
-.griditem1{
+.gridItem1{
     padding-left: 1.3rem;
 }
 
-.container2-item1{
+.container2Item1{
     padding-left: 1rem;
 }
 
-.footer-container2{
+.footerContainer2{
     border:1.9px solid rgb(177, 177, 177);
     padding-top: 1rem;
     display: grid;
@@ -270,14 +270,14 @@
     grid-template-columns: 27% 27% 40%;
 }
 
-.footer-container3{
+.footerContainer3{
     padding-top: 1.5rem;
     display: grid;
     height: 260px;
     grid-template-columns: 27% 73%;
 }
 
-.description-para{
+.descriptionPara{
     color: rgb(158, 157, 157);
     font-size: 14.5px;
     padding-right: 2rem;
